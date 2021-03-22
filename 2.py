@@ -1,4 +1,3 @@
-# на этот раз мы не загружаем файл а создаем...
 # EULER #2:
 # https://euler.jakumo.org/problems/view/2.html
 # 
